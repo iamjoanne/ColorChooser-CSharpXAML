@@ -1,0 +1,27 @@
+C:\Users\jobad\AppData\Local\Temporary Projects\ColorChooser\bin\Debug\ColorChooser.exe.config
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.exe.config
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.exe
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.pdb
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.csprojResolveAssemblyReference.cache
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\MainWindow.baml
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\MainWindow.g.cs
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\App.g.cs
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser_MarkupCompile.cache
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.g.resources
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.Properties.Resources.resources
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.csproj.GenerateResource.Cache
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.exe
+F:\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.pdb
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.exe.config
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.exe
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.pdb
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.exe
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\bin\Debug\ColorChooser.pdb
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.csprojResolveAssemblyReference.cache
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\MainWindow.baml
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\MainWindow.g.cs
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\App.g.cs
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser_MarkupCompile.cache
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.g.resources
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.Properties.Resources.resources
+D:\USB BACKUP\JMB SCHOOL USB BACKUP\ITSE 2453 Advanced C#\Week 8\ColorChooser\ColorChooser\obj\Debug\ColorChooser.csproj.GenerateResource.Cache
